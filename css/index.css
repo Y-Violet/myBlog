@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+	text-align: center;
+	font-size: 20px;
+}
+header{
+	width:1200px;
+	height:100px;
+	margin: 0 auto;
+	background: #ccc;
+}
+nav{
+	width:100%;
+	height:42px;
+	background: rgb(28,75,169);
+}
+.navCon{
+	width:1200px;
+	height: 42px;
+	margin: 0 auto;
+	color: #fff;
+}
+.blank {
+	width:1200px;
+	height: 30px;
+	margin: 0 auto;
+	background: #fff;
+}
+.main{
+	width:1200px;
+	overflow: hidden;
+	margin: 0px auto;
+}
+#onerow{
+	width:1200px;
+	height: 392px;
+	margin-bottom: 12px;
+	overflow: hidden;
+}
+.ppt1{
+	background: #ccc;
+	width: 462px;
+	height: 392px;
+	float: left;
+}
+.onerowR{
+	background: #fff;
+	width:738px;
+	height: 392px;
+	float: left;
+}
+.imnews1{
+	background: #ccc;
+	width:720px;
+	height: 280px;
+	margin-bottom: 12px;
+	margin-left: 18px;
+}
+.ppt2{
+	background: #ccc;
+	width:720px;
+	height: 100px;
+	margin-left: 18px;
+}
+#tworow{
+	width: 1200px;
+	height: 280px;
+	margin-bottom: 12px;
+	overflow: hidden;
+}
+.notice{
+	background: #ccc;
+	width:462px;
+	height: 280px;
+	float: left;
+}
+.imnews2{
+	background: #ccc;
+	width:720px;
+	height: 280px;
+	margin-bottom: 12px;
+	margin-left: 18px;
+	float: left;
+}
+#threerow{
+	width:1200px;
+	height: 80px;
+	margin-bottom: 12px;
+}
+.mail{
+	width:462px;
+	height: 80px;
+	float: left;
+	background: #ccc;
+}
+.threerowR {
+	background: #ccc;
+	width:720px;
+	height: 80px;
+	margin-left: 18px;
+	float: left;
+}
+#fourrow{
+	width:1200px;
+	height: 120px;
+	margin-bottom: 12px;
+	overflow: hidden;
+}
+.product1, .product2{
+	background: #ccc;
+	width: 388px;
+	height: 120px;
+	float: left;
+}
+.product2{
+	margin-left: 18px;
+}
+#fiverow{
+	width: 1200px;
+	height: 122px;
+	margin-bottom: 12px;
+	background: #ccc;
+}
+.link{
+	background: #ccc;
+	width: 1200px;
+	height:30px;
+	margin: 0px auto;
+	margin-bottom: 12px;
+}
+footer{
+	width: 100%;
+	height: 150px;
+	background: rgb(28,75,169);
+}
+.footerCon{
+	width:1200px;
+	height: 115px;
+	margin: 0 auto;
+	color: #fff;
+}
